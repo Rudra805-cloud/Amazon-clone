@@ -17,7 +17,7 @@
     width: 100px;
 }
 .logo{
-    background-image: url("/image/amazon.png");
+    background-image: url("/amazon.png");
     background-size: cover;
     
     height: 50px;
@@ -133,7 +133,7 @@ margin-left: 1px;
 /* Body */
 /* hero-section */
 .heropg{
-    background-image: url("/image/box-3.png");
+    background-image: url("/box-3.png");
     height: 300px;
     background-size: cover;
     display: flex;
@@ -213,7 +213,7 @@ ul a:hover{
 
 }
 .logo{
-    background-image: url("/image/amazon.png");
+    background-image: url("/amazon.png");
     background-size: cover;
     align-items: center;
     height: 50px;
