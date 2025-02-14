@@ -235,11 +235,12 @@ color: white;
 .pages a{
     color: white;
     text-decoration: none;
-    margin-left: 6px;
+    margin-left: 5.9px;
 }
 .pages a:hover{
 text-decoration: underline;
 }
 .copyright{ 
     padding-top:5px ;
+    
 }
